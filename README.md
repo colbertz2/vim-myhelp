@@ -1,6 +1,6 @@
-# Matt's Vim Help
+# Zach's Vim Help
 
-This is my personal Vim cheatsheet that I use to augment my feeble mind.
+This is my personal Vim cheatsheet, adapted from technosophos/vim-myhelp
 
 Feel free to fork and tailor to your own needs. If you do anything
 particularly cool, I'd love a pull request.

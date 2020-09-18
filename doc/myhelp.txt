@@ -1,7 +1,7 @@
 *myhelp.txt*	For Vim version 7.4	Last change: 2014 October 8
 *myhelp*
 
-Matt's cheat sheet of Vim stuff he always forgets.
+Zach's cheat sheet of Vim stuff he always forgets.
 
 ===============================================================================
 CONTENTS
