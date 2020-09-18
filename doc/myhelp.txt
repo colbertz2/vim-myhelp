@@ -63,6 +63,14 @@ Janus: https://github.com/carlhuda/janus
 Why disable supertab? Because it's really annoying when you're writing in a
 language that uses tabs instead of spaces.
 
+
+ALIGNING MARKDOWN TABLES
+(with EasyAlign plugin)
+
+1. In Visual mode, select the table text.
+2. Use command :EasyAlign*|<Enter>
+3. Profit
+
 ===============================================================================
 5. Rebuilding this file.
 
