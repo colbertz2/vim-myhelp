@@ -25,7 +25,7 @@ CONTENTS
    - CTRL-U : Up half a page
    - ~ Uppercase a letter (works on ranges)
    - z commands:
-      - z : Current line at the top
+      - z<ret> : Current line at the top
       - z. : current line at the center
       - z- : current line at the bottom
 
